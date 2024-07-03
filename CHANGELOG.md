@@ -1,6 +1,6 @@
 # Libertas Publica Changelog
 
-## Unreleased
+## [1.0.0] - 2024-07-03
 
 - Updated README.md to include links to LICENSE and CHANGELOG files [6e1779e]
 - Added initial README.md with project description [7c70f53]
