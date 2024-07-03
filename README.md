@@ -2,9 +2,10 @@
 
 ## Description
 
-Libertas Publica is an organization that recognizes the importance of information as a public good
-and protects informational rights and freedoms. We strive to create a society where information
-is accessible to all and where the protection of informational rights and freedoms is a priority.
+Libertas Publica is an organization that recognizes the importance of information as a
+public good and protects informational rights and freedoms. We strive to create a society
+where information is accessible to all and where the protection of informational rights and
+freedoms is a priority.
 
 ## Core Principles
 
@@ -42,8 +43,12 @@ informational rights and freedoms, support the following principles:
 
 ## License
 
-This project is licensed under the
-[Creative Commons Attribution 4.0 International License (CC BY 4.0)][cc-by].
+This project is licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0). For more details, see the [LICENSE](LICENSE.md) file.
+
+## Changelog
+
+All notable changes to this project will be documented in the [CHANGELOG](CHANGELOG.md) file.
 
 ## Contact
 
@@ -57,5 +62,3 @@ For inquiries or suggestions related to Libertas Publica, please use the followi
 
 - Official Website: [lpub.org](https://lpub.org)
 - GitHub Repository Issues: [ucomru/lpub/issues](https://github.com/ucomru/lpub/issues)
-
-[cc-by]: https://creativecommons.org/licenses/by/4.0/
