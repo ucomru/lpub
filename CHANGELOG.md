@@ -1,5 +1,9 @@
 # Libertas Publica Changelog
 
+## Unreleased
+
+- Added SECURITY.md with security policy
+
 ## [1.0.0] - 2024-07-03
 
 - Updated README.md to include links to LICENSE and CHANGELOG files [6e1779e]
