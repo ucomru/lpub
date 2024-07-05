@@ -2,7 +2,8 @@
 
 ## Unreleased
 
-- Added SECURITY.md with security policy
+- Added CODE_OF_CONDUCT.md with community guidelines
+- Added SECURITY.md with security policy [c58f186]
 
 ## [1.0.0] - 2024-07-03
 
