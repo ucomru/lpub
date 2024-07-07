@@ -2,7 +2,8 @@
 
 ## Unreleased
 
-- Added CODE_OF_CONDUCT.md with community guidelines
+- Updated README.md: adjust links to License and Changelog sections
+- Added CODE_OF_CONDUCT.md with community guidelines [7938b98]
 - Added SECURITY.md with security policy [c58f186]
 
 ## [1.0.0] - 2024-07-03

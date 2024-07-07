@@ -44,11 +44,11 @@ informational rights and freedoms, support the following principles:
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License
-(CC BY 4.0). For more details, see the [LICENSE](LICENSE.md) file.
+(CC BY 4.0). For more details, see the [License](LICENSE.md).
 
 ## Changelog
 
-All notable changes to this project will be documented in the [CHANGELOG](CHANGELOG.md) file.
+All notable changes to this project will be documented in the [Changelog](CHANGELOG.md).
 
 ## Contact
 
