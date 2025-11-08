@@ -1,0 +1,49 @@
+{
+  "project": "Libertas Publica (Lpub)",
+  "project_url": "https://github.com/ucomru/lpub",
+  "name": "Libertas Publica (Lpub) logotype",
+  "description": "Primary logo of the Libertas Publica (Lpub).",
+  "tags": ["logotype", "branding", "svg", "core-identity"],
+  "author": "Timur Ulyahin",
+  "license": "CC BY 4.0",
+  "source": "https://github.com/ucomru/lpub/assets/logo",
+  "created": "2025-06-12T21:20:34Z",
+  "artifacts": [
+    {
+      "filename": "logo.svg",
+      "type": "image/svg+xml",
+      "description": "Vector logo in SVG format with embedded title and metadata.",
+      "size_bytes": 3570,
+      "sha256": "d6fa824a4bab3a4fdcc6b452e958bce1b5772f8bf0036a75d31c896138f284f8",
+      "sha512": "fb090733e2d1737613f950f0168c309b2e91a14933f56e7462ebf4e8db0c50f37057f969998ac84195868560dc9bbe8a87853f1f42088e05153c30b2163d89ec",
+      "sha256_b64": "1vqCSkurOk/cxrRS6Vi84bV3L4vwA2p10xyJYTjyhPg=",
+      "created": "2025-06-12T21:20:34Z",
+      "ipfs_cid": "bafkreigw7kbeus5lhjh5zrvukluvrphbwv3s7c7qanvhluy4rfqtr4ue7a",
+      "ipfs_url": "https://bafkreigw7kbeus5lhjh5zrvukluvrphbwv3s7c7qanvhluy4rfqtr4ue7a.ipfs.w3s.link",
+      "proofs": [
+        {
+          "network": "ethereum",
+          "chain_id": 1,
+          "tx_hash": "0xe8388ef490f55e638373cc2f3ed246cfb39d05627b9d3d2b0cdf92b25a22d8fa",
+          "block_number": 22694157,
+          "timestamp": "2025-06-13T07:30:59Z",
+          "from": "0x483117e4f69e19ec97303539961ef39069e1936c",
+          "to": "0x483117e4f69e19ec97303539961ef39069e1936c",
+          "input_data": "bafkreigw7kbeus5lhjh5zrvukluvrphbwv3s7c7qanvhluy4rfqtr4ue7a",
+          "explorer_url": "https://etherscan.io/tx/0xe8388ef490f55e638373cc2f3ed246cfb39d05627b9d3d2b0cdf92b25a22d8fa"
+        },
+        {
+          "network": "polygon",
+          "chain_id": 137,
+          "tx_hash": "0x737f60429e1cb51e00ca4c6d4b4dc64a6b72f75a0f92088f36d39ba75410ca8f",
+          "block_number": 72711551,
+           "timestamp": "2025-06-13T09:02:19Z",
+          "from": "0x483117e4f69e19ec97303539961ef39069e1936c",
+          "to": "0x483117e4f69e19ec97303539961ef39069e1936c",
+          "input_data": "bafkreigw7kbeus5lhjh5zrvukluvrphbwv3s7c7qanvhluy4rfqtr4ue7a",
+          "explorer_url": "https://polygonscan.com/tx/0x737f60429e1cb51e00ca4c6d4b4dc64a6b72f75a0f92088f36d39ba75410ca8f"
+        }
+      ]
+    }
+  ]
+}
