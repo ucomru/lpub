@@ -1,2 +1,2 @@
-# Local
-*.mdru export-ignore
+# Local-only internal files
+*.local.* export-ignore
