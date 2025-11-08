@@ -36,6 +36,12 @@ informational rights and freedoms, support the following principles:
 - Oppose censorship and control over information.
 - Promote digital ethics and transparency.
 
+## Visual Identity
+
+The official logo of Libertas Publica (Lpub) is available in the
+[`assets/logo/`](./assets/logo/) directory.  
+It reflects the project’s commitment to digital freedom and openness.
+
 ## Project Websites
 
 - Official Website: [lpub.org](https://lpub.org)
