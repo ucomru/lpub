@@ -1,5 +1,8 @@
 # Lpub Logo
 
+<img src="https://raw.githubusercontent.com/ucomru/lpub/main/assets/logo/logo.svg"
+     alt="Lpub logo" width="140"/>
+
 This is the official logo of **Libertas Publica (Lpub)**.
 
 ## Symbol Design
